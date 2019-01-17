@@ -1,0 +1,6 @@
+{
+    "ecmaVersion": 2019,
+    "ecmaFeatures": {
+        "jsx": true
+    }
+}
